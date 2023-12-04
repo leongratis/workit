@@ -1,3 +1,4 @@
+view on https://leongratis.github.io/workit/
 # workit
 # brief info on the work: workit is a simple website for a telecommunication data servicing company
 # NOTE: for the dev. only(I applied "before and after pseudo element" to add a solid curvy dark-blue & faint ash color background) 
